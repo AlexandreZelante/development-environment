@@ -17,5 +17,6 @@
     "v": "open:vsplit",
     "h": "open:split"
   },
-  "explorer.git.enable": true
+  "explorer.git.enable": true,
+  "diagnostic.checkCurrentLine": true
 }
